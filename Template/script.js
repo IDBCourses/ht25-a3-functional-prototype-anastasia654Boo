@@ -5,6 +5,9 @@
 
 import * as Util from "./util.js";
 
+let be = true;
+
+
 // State variables are the parts of your program that change over time.
 
 // Settings variables should contain all of the "fixed" parts of your programs
@@ -23,3 +26,6 @@ function setup() {
 }
 
 setup(); // Always remember to call setup()!
+
+//spidjvsidoj
+//zlkdvdslkvd
